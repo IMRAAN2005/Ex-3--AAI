@@ -113,8 +113,6 @@ print(query_result)
 
 
 ## Output:
-![result](image.png)
-
-![result](image-1.png)
+![image](https://github.com/user-attachments/assets/38395394-170c-4bb0-8928-1b597cb0990c)
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
